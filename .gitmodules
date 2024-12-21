@@ -4,3 +4,6 @@
 [submodule "PMDM/UD3/Actividad_Practica_U3_PMDM"]
 	path = PMDM/UD3/Actividad_Practica_U3_PMDM
 	url = https://github.com/kodebidean/Actividad_Practica_U3_PMDM.git
+[submodule "ADAT/UD1/JavaStandalone"]
+	path = ADAT/UD1/JavaStandalone
+	url = https://github.com/kodebidean/ADAT_U1_File_Manipulation.git
