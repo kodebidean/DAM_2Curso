@@ -1,21 +1,27 @@
-[submodule "PMDM/UD2/DAMD2_PMDM_UD2_Practica"]
-	path = PMDM/UD2/DAMD2_PMDM_UD2_Practica
-	url = https://github.com/kodebidean/DAMD2_PMDM_UD2_Practica.git
-[submodule "PMDM/UD3/Actividad_Practica_U3_PMDM"]
-	path = PMDM/UD3/Actividad_Practica_U3_PMDM
-	url = https://github.com/kodebidean/Actividad_Practica_U3_PMDM.git
-[submodule "ADAT/UD1/JavaStandalone"]
-	path = ADAT/UD1/JavaStandalone
-	url = https://github.com/kodebidean/ADAT_U1_File_Manipulation.git
-[submodule "ADAT/UD2/Actividad_Practica"]
-	path = ADAT/UD2/Actividad_Practica
-	url = https://github.com/kodebidean/DAMD2_ADAT_Actividad_Practica_UD1_UD2.git
-[submodule "ADAT/UD3/Actividad_Practica"]
-	path = ADAT/UD3/Actividad_Practica
-	url = https://github.com/kodebidean/Actividad_Practica_U3_Hibernate
-[submodule "DINT/UD1/Actividad_Practica"]
-	path = DINT/UD1/Actividad_Practica
-	url = https://github.com/kodebidean/Contactify-Swift
-[submodule "DINT/UD2/Actividad_Practica"]
-	path = DINT/UD2/Actividad_Practica
-	url = https://github.com/kodebidean/MovieApp-iOS.git
+[submodule "PMDM/UD2/PMDM_U2_Actividad_Practica_Comunidades_Autonomas"]
+    path = PMDM/UD2/PMDM_U2_Actividad_Practica_Comunidades_Autonomas
+    url = https://github.com/kodebidean/PMDM_U2_Actividad_Practica_Comunidades_Autonomas.git
+
+[submodule "PMDM/UD3/PMDM_U3_Actividad_Practica_Gestor_Proyectos"]
+    path = PMDM/UD3/PMDM_U3_Actividad_Practica_Gestor_Proyectos
+    url = https://github.com/kodebidean/PMDM_U3_Actividad_Practica_Gestor_Proyectos.git
+
+[submodule "ADAT/UD1/ADAT_U1_Actividad_Practica_File_Manipulation"]
+    path = ADAT/UD1/ADAT_U1_Actividad_Practica_File_Manipulation
+    url = https://github.com/kodebidean/ADAT_U1_Actividad_Practica_File_Manipulation.git
+
+[submodule "ADAT/UD2/ADAT_U2_Actividad_Practica_JDBC"]
+    path = ADAT/UD2/ADAT_U2_Actividad_Practica_JDBC
+    url = https://github.com/kodebidean/ADAT_U2_Actividad_Practica_JDBC.git
+
+[submodule "ADAT/UD3/ADAT_U3_Actividad_Practica_Hibernate"]
+    path = ADAT/UD3/ADAT_U3_Actividad_Practica_Hibernate
+    url = https://github.com/kodebidean/ADAT_U3_Actividad_Practica_Hibernate.git
+
+[submodule "DINT/UD1/DINT_U1_Actividad_Practica_Contactify"]
+    path = DINT/UD1/DINT_U1_Actividad_Practica_Contactify
+    url = https://github.com/kodebidean/DINT_U1_Actividad_Practica_Contactify.git
+
+[submodule "DINT/UD2/DINT_U2_Actividad_Practica_MovieApp"]
+    path = DINT/UD2/DINT_U2_Actividad_Practica_MovieApp
+    url = https://github.com/kodebidean/DINT_U2_Actividad_Practica_MovieApp.git
