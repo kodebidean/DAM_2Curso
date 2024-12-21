@@ -13,3 +13,9 @@
 [submodule "ADAT/UD3/Actividad_Practica"]
 	path = ADAT/UD3/Actividad_Practica
 	url = https://github.com/kodebidean/Actividad_Practica_U3_Hibernate
+[submodule "DINT/UD1/Actividad_Practica"]
+	path = DINT/UD1/Actividad_Practica
+	url = https://github.com/kodebidean/Contactify-Swift
+[submodule "DINT/UD2/Actividad_Practica"]
+	path = DINT/UD2/Actividad_Practica
+	url = https://github.com/kodebidean/MovieApp-iOS.git
