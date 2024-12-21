@@ -1,0 +1,81 @@
+# Directorios generados automáticamente
+/.gradle/
+/build/
+/.idea/
+/captures/
+/output/
+
+# Archivos específicos del entorno de desarrollo
+local.properties
+*.iml
+*.hprof
+*.log
+*.DS_Store
+*.sw?
+*.orig
+
+# Archivos de sistema (MacOS, Windows, Linux)
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Configuración específica del IDE
+*.ipr
+*.iws
+*.bak
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/vcs.xml
+/.idea/libraries/
+
+# Gradle y configuración temporal
+.gradle
+*.lock
+.gradle/
+build/
+gradle-app.setting
+
+# Archivos de la carpeta "generated" y derivados
+*.apk
+*.ap_
+*.aab
+
+# Archivos de prueba
+test-results/
+test-report/
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Configuración específica del usuario y cachés
+/.externalNativeBuild
+/.cxx
+.idea/
+*.log
+
+# Archivos relacionados con Android Lint
+lint-results*.xml
+lint-results*.html
+
+# Caches de Android Studio y otras herramientas
+/.cache/
+/.gradle/
+/local.properties
+.DS_Store
+
+# Configuración de entorno y emuladores
+.env
+.vscode/
+*.vscode
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
+

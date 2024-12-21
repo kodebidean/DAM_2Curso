@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ADAT/UD1/JavaStandalone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM/UD2/DAMD2_PMDM_UD2_Practica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM/UD3/Actividad_Practica_U3_PMDM" vcs="Git" />
+  </component>
+</project>

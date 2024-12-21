@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Actividad_U1_U2_Navegacion_Vistas_Avanzadas</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="recargar">Recargar</string>
+    <string name="guardar">Guardar</string>
+    <string name="nuevo_nombre_de_comunidad">Nuevo nombre de comunidad</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+</resources>

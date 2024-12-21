@@ -1,0 +1,34 @@
+
+Estados de un Proceso:
+Los cinco estados que se mencionan son las etapas posibles en el ciclo de vida de un proceso. Estos estados ayudan a definir en qué situación se encuentra el proceso en un momento dado:
+
+Nuevo: El proceso está siendo creado.
+En ejecución: El proceso está usando el CPU activamente para ejecutar sus instrucciones.
+Bloqueado: El proceso no puede continuar hasta que ocurra un evento específico, como finalizar una operación de E/S.
+Listo: El proceso está preparado para ejecutarse pero está esperando que el CPU esté libre.
+Finalizado: El proceso ha completado todas sus tareas y ha terminado.
+Estos son estados fijos por los cuales un proceso puede pasar a lo largo de su ciclo de vida.
+
+Interrupciones y Suspensiones:
+Las interrupciones y suspensiones no son estados en sí, sino eventos que causan un cambio de estado. Te explico cómo funcionan:
+
+Interrupciones:
+
+Una interrupción es un evento que obliga al sistema operativo a detener temporalmente el proceso que está en ejecución y realizar una acción específica, como asignar el CPU a otro proceso.
+Ejemplos:
+Interrupción por E/S: Si un proceso necesita realizar una operación de entrada/salida, se produce una interrupción y el proceso pasa del estado En ejecución al estado Bloqueado, ya que debe esperar hasta que la operación termine.
+Interrupción por fin de tiempo: En algoritmos de planificación como Round Robin, el sistema operativo interrumpe al proceso para asignar el CPU a otro proceso, lo que cambia su estado a Listo.
+Interrupción por error: Un error, como una división por cero, puede provocar que el proceso pase directamente a Finalizado.
+Suspensiones:
+
+Una suspensión es cuando el sistema operativo decide mover un proceso desde la memoria principal a la memoria secundaria (por ejemplo, el disco duro). Esto ocurre por razones como:
+Falta de memoria principal: Para liberar espacio en la memoria RAM.
+Reducción de multiprogramación: Cuando el sistema operativo necesita reducir el número de procesos activos.
+La suspensión no es un estado del proceso, sino una acción que se toma para gestionar mejor los recursos del sistema. Un proceso suspendido pasa a estar "en espera" en la memoria secundaria y puede volver al estado Listo cuando haya suficiente memoria disponible.
+Relación entre Estados e Interrupciones/Suspensiones:
+Interrupciones y suspensiones son acciones que el sistema operativo toma para gestionar los procesos y pueden causar cambios de estado.
+Por ejemplo, un proceso en ejecución puede ser interrumpido y pasar a Listo debido al fin de su tiempo de CPU, o ser suspendido si la memoria está llena.
+Los estados representan el estado actual del proceso, mientras que las interrupciones y suspensiones son eventos que desencadenan transiciones entre esos estados.
+
+Fichero ACTUALIZADO
+Fichero ACTUALIZADO

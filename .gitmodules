@@ -1,0 +1,6 @@
+[submodule "PMDM/UD2/DAMD2_PMDM_UD2_Practica"]
+	path = PMDM/UD2/DAMD2_PMDM_UD2_Practica
+	url = https://github.com/kodebidean/DAMD2_PMDM_UD2_Practica.git
+[submodule "PMDM/UD3/Actividad_Practica_U3_PMDM"]
+	path = PMDM/UD3/Actividad_Practica_U3_PMDM
+	url = https://github.com/kodebidean/Actividad_Practica_U3_PMDM.git
