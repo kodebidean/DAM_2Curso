@@ -7,3 +7,6 @@
 [submodule "ADAT/UD1/JavaStandalone"]
 	path = ADAT/UD1/JavaStandalone
 	url = https://github.com/kodebidean/ADAT_U1_File_Manipulation.git
+[submodule "ADAT/UD2/Actividad_Practica"]
+	path = ADAT/UD2/Actividad_Practica
+	url = https://github.com/kodebidean/DAMD2_ADAT_Actividad_Practica_UD1_UD2.git
